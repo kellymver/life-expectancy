@@ -11,4 +11,4 @@ Table of Contents:
 7. Manipulate the data to compare male and female life expectancies by country
 8. Create a scatter plot for male and female life expectancy by year
 9. Add reference lines and axis limits
-10. Add plot titles and axis labels
+10. Annotate certain countries on the plots with labels
